@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <title>moja strona</title>
+<meta charset="UTF-8">
+<meta name="description" content="Wujek Google">
+<link rel="icon" href="favicon.ico">
+<link rel="stylesheet" href="style.css">
+  </head>
+<body>
+  <div class="nav">
+    <ul>
+      <li><a href="Contactform.html"> Home </a></li>
+      <li>Service</li>
+      <li>Support</li>
+      <li>Contact</li>
+    </ul>
+  </div>
+  <div class="wrapper">
+    <div class="image-area">
+      <div class="image-text centered-container">Code learning simplified
+</div>
+    </div>
+    <div class="intro-text centered-container">Learning to code is the most valued human skill nowadays
+</div>
+    <div class="services">
+      <div class="single-service centered-container">
+        <img src="zenva-banner.png" />
+        <p>
+          Who wants to live forever?
+        </p>
+      </div>
+      <div class="single-service centered-container">
+        <img src="zenva-banner.png" />
+        <p>
+          This might be the begining of a wonderfull journey
+        </p>
+      </div>
+      <div class="single-service centered-container">
+        <img src="zenva-banner.png" />
+        <p>
+          Carry on ==> Nothing to see here
+        </p>
+      </div>
+      <div class="single-service centered-container">
+        <img src="zenva-banner.png" />
+        <p>
+          How about I do this instead?
+        </p>
+      </div>
+    </div>
+  </div>
+
+</body>
+</html>
