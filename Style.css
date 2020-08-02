@@ -1,0 +1,173 @@
+body{
+background-color: white;
+color: black;
+font-size: 16px;
+font-family: Arial, Helvetica, sans-serif;
+padding: 0px;
+margin: 0px;
+}
+.nav {
+background-color: cadetblue;
+color: white;
+}
+.nav ul {
+margin: 0px;
+padding: 0px;
+list-style-type: none;
+font-size: 0px;
+}
+.nav ul li {
+  padding:16px;
+  text-align: center;
+  font-size: 1.2rem;
+  border-bottom: 1px solid black;
+  transition: background-color 0.2;
+}
+
+.nav ul li:hover {
+  background-color: black;
+}
+.image-area {
+  height: 500px;
+background-image: url('computers2.png');
+background-color: black;
+background-position: center center;
+background-size: cover;
+padding-top: 100px;
+padding-bottom: 100px;
+
+}
+
+
+
+.centered-container{
+max-width: 1020px;
+margin: 50px auto 0px auto;
+padding: 0px 16px;
+vertical-align:middle;
+
+}
+
+
+
+.image-text {
+  text-align: center;
+  height: 500px;
+    line-height: 150px;
+    text-align: center;
+
+  background-color: black;
+  color: white;
+  font-size: 8rem;
+
+}
+.intro-text {
+
+color: grey;
+font-size: 1.5rem;
+text-align: center;
+padding-top: 50px;
+padding-bottom: 50px;
+
+}
+.single-service {
+text-align: center;
+margin-bottom: 32px;
+}
+.single-service p {
+  padding: 0px 16px;
+}
+
+@media screen and (min-width: 700px) {
+  .nav ul {
+    text-align: right;
+  }
+.nav ul li {
+display: inline-block;
+border-bottom: 0px;
+border-left: 1px solid black;
+text-align: left;
+
+}
+.single-service{
+width 50%;
+float: left;
+
+}
+
+
+}
+
+
+
+
+h1 {color:black;
+  background-color:white;
+  width: 50%;
+  height:auto;
+  padding: 20px;
+  border: 2px solid black;
+  margin:10px auto 10px auto;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 50px;
+}
+h2 {
+width: 50%;
+height: auto;
+text-align: center;
+
+}
+
+
+
+
+#main {
+color:purple;
+}
+.nice {
+color: blue;
+}
+#box {
+  background-color: yellow;
+  width: 250px;
+  height: 100px;
+padding: 20px;
+border: 10px solid black;
+margin:10px auto 10px auto;
+text-align: center;
+vertical-align: middle;
+line-height: 100px;
+
+}
+.important {
+font-style: italic;
+font-weight: bold;
+text-decoration: underline;
+
+
+
+}
+
+
+#box2 {
+  background-color: yellow;
+  width: 250px;
+  height: 200px;
+padding: 20px;
+border: 10px solid black;
+
+}
+body {
+  font-size: 20px;
+  font-family: Rowdies;
+}
+#main2 {
+  font-size: 2em;
+  background-color: yellow;
+  width: 250px;
+  height: 200px;
+padding: 20px;
+border: 10px solid black;
+
+}
