@@ -33,9 +33,9 @@ Below you’ll find the most important projects I’ve worked on or am still dev
 **PL:** Tworzenie systemu ekwipunku i integracja go z grą.  
 **EN:** Created an inventory system and integrated it into the game.
 
-### 🌐 [Aplikacja zarządzająca systemem RPG](https://github.com/Cossack888/the-cause)
-**PL:** Krótki opis projektu – cel, technologia, rola w zespole.  
-**EN:** Short project description – purpose, technology, role in the team.
+### 🌐 [Aplikacja zarządzająca systemem RPG](https://github.com/Cossack888/the-cause-new)
+**PL:** Tworzenie strony zarządzającej systemem rpg.  
+**EN:** creation of the web app for rpg system.
 
 ### 🎮 [Johnny X](https://github.com/Cossack888/Johnny-X)
 **PL:** Mój pierwszy projekt.  
